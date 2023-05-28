@@ -1,4 +1,4 @@
-- I’m @cmurray512 (Chris Murray, Research & Evaluation Analyst at the Ending Community Homelessness Coalition in Austin, Texas).
+- I’m @cmurray512 ... Chris Murray, Research & Evaluation Analyst at the Ending Community Homelessness Coalition in Austin, Texas.
 
 - I’m interested in ... R, C, & F#. I’m currently learning ... R & Statistics.
 
