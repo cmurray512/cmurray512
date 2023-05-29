@@ -4,8 +4,6 @@
 
 - I’m currently learning more about functional programming and statistics.
 
-- 📫 How to reach me ... reinfo@austinecho.org
-
 <!---
 cmurray512/cmurray512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
