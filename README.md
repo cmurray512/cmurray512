@@ -1,4 +1,4 @@
-- I’m Chris Murray, Analytics Manager at the [Ending Community Homelessness Coalition](https://www.austinecho.org/) in Austin, Texas.
+- I’m Chris Murray, data analyst at [El Buen Samaritano](https://www.elbuen.org/) in Austin, Texas.
 
 <!---
 cmurray512/cmurray512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
